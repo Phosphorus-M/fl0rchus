@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Flor</h1>
+<h1 align="center">Hi 👋, I'm Nachoide</h1>
 <h3 align="center">A frontend developer and from Argentina</h3>
 
 - 🌱 I’m currently learning **React**
